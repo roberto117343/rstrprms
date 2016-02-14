@@ -64,7 +64,7 @@ public class main {
 	}
 	public static void funcion_patrones() throws IOException{
 		
-		int paso = 2;//
+	int paso = 2;//
         int primo = 0;
         int contador = 0;
         int numeroSuma = 0;
